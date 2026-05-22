@@ -22,7 +22,7 @@ Start-Transcript -Path $LogFile
 function Header {
     Clear-Host
     Write-Host "=========================================" -ForegroundColor Cyan
-    Write-Host "        NETWORK DOCTOR TOOLKIT         " -ForegroundColor Green
+    Write-Host "       BLUE'S NETWORK DOCTOR TOOLKIT         " -ForegroundColor Cyan
     Write-Host "=========================================" -ForegroundColor Cyan
 }
 
